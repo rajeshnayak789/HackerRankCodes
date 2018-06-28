@@ -4,7 +4,7 @@ class Printer<T> {
 
     public static <E> void printArray(E[] array) {
         for (E elum : array)
-            System.out.println(array.toString(elum));
+            System.out.println(elum);
 
     }
 
