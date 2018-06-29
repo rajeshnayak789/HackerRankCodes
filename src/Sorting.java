@@ -20,8 +20,8 @@ public class Sorting {
                     a[i] = a[i + 1];
                     a[i + 1] = tmp;
                     numberOfSwaps++;
-                    swapPosition = i;
                 }
+                swapPosition = i;
             }
             endP = swapPosition;
         }
