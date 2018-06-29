@@ -1,3 +1,5 @@
+//Day 11: 2D Arrays
+
 import java.util.Scanner;
 
 public class HourGlass
